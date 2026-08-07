@@ -13,11 +13,14 @@ Atuo com suporte presencial e remoto, administração de Active Directory, Windo
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square&logo=microsoft&logoColor=white)
 
 - Java, Swing, JDBC e orientação a objetos
 - JavaScript, HTML5 e CSS3
 - MySQL e modelagem de dados
 - Active Directory, Windows 10/11 e suporte técnico
+- Power BI e pacote Microsoft 365 (Office 365)
 - Git, GitHub e gestão de incidentes
 
 ## Projetos em destaque
