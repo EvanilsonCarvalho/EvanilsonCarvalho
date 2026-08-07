@@ -1,6 +1,6 @@
 # Olá, eu sou Evanilson Carvalho Sousa 👋
 
-Analista de Suporte Técnico e desenvolvedor de sistemas, com mais de oito anos de experiência em ambientes corporativos. Sou pós-graduado em Engenharia de Software, tecnólogo em Análise e Desenvolvimento de Sistemas (ADS) e técnico em Informática.
+Analista de Suporte Técnico e Desenvolvedor de Sistemas, com mais de oito anos de experiência em ambientes corporativos. Sou pós-graduado em Engenharia de Software, Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS) e Técnico em Informática.
 
 Atuo com suporte presencial e remoto, administração de Active Directory, Windows e atendimento ao usuário. Também desenvolvo projetos em Java, JavaScript, HTML, CSS e bancos de dados relacionais.
 
