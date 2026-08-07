@@ -4,7 +4,7 @@ Analista de Suporte Técnico e Desenvolvedor de Sistemas, com mais de oito anos 
 
 Atuo com suporte presencial e remoto, administração de Active Directory, Windows e atendimento ao usuário. Também desenvolvo projetos em Java, JavaScript, HTML, CSS e bancos de dados relacionais.
 
-## Tecnologias e competências
+## Tecnologias e Competências
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -35,7 +35,7 @@ Atuo com suporte presencial e remoto, administração de Active Directory, Windo
 
 - Pós-graduação em Engenharia de Software — UNINOVE
 - Tecnologia em Análise e Desenvolvimento de Sistemas — UNINOVE
-- Técnico em Informática
+- Técnico em Informática — UNINOVE
 
 ## Contato
 
