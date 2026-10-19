@@ -19,7 +19,7 @@ Atuo com suporte presencial e remoto, administração de Active Directory, Windo
 
 - Java, Swing, JDBC e orientação a objetos
 - JavaScript, HTML5 e CSS3
-- MySQL e modelagem de dados
+- MySQL PostgreSQL e modelagem de dados
 - Active Directory, Windows 10/11 e suporte técnico
 - Power BI e pacote Microsoft 365 (Office 365)
 - Git, GitHub e gestão de incidentes
